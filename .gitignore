@@ -1,0 +1,6 @@
+/KAMP
+
+printer-*.cfg
+secrets.conf
+*.bin
+.moonraker.conf.bkp
